@@ -4,7 +4,7 @@
 
 Juego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos que conseguir salir de una isla donde hemos sido secuestrados, mientras escapamos de nuestros secuestradores y otros peligros.
 
-<img src="Captura de pantalla 2023-05-30 a las 0.37.19.png" title="" alt="" whidth="" height="40" />&nbsp;
+<img src="Captura de pantalla 2023-05-30 a las 0.37.19.png" title="" alt="" whidth="" height="" />&nbsp;
 
 
 
