@@ -4,6 +4,8 @@
 
 Juego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos que conseguir salir de una isla donde hemos sido secuestrados, mientras escapamos de nuestros secuestradores y otros peligros.
 
+<img src="[https://logowik.com/content/uploads/images/kotlin.jpg](https://drive.google.com/file/d/18iZB0RLKIXNWyX81wlzjZM6oPRncPs-Z/view?usp=sharing)" title="" alt="" whidth="" height="40" />&nbsp;
+
 
 
 # [Link a la memoria](https://docs.google.com/document/d/1F_HAZigc0l9C7mPLSkFqU8tVaUnyCZtOgHDuv_236KY/edit?usp=sharing)
