@@ -8,7 +8,7 @@ Juego de puzzles, estrategia, supervivencia que incluye shooter donde tendremos 
 <img src="Captura de pantalla 2023-05-30 a las 0.35.52.png" title="" alt="" whidth="" height="" />&nbsp;
 <img src="Captura de pantalla 2023-05-30 a las 0.37.19.png" title="" alt="" whidth="" height="" />&nbsp;
 <img src="Captura de pantalla 2023-05-30 a las 0.37.19.png" title="" alt="" whidth="" height="" />&nbsp;
-<img src="Captura de pantalla 2023-05-30 a las 0.37.19.png" title="" alt="" whidth="" height="" />&nbsp;
+<img src="Captura de pantalla 2023-05-30 a las 0.36.15.png" title="" alt="" whidth="" height="" />&nbsp;
 <img src="Captura de pantalla 2023-05-30 a las 0.37.19.png" title="" alt="" whidth="" height="" />&nbsp;
 
 
